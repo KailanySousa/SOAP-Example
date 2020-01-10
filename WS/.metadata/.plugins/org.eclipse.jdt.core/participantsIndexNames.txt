@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\Users\Cliente\Desktop\WB\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1176225134.index
+\SOAPExampleClient\src
